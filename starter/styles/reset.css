@@ -1,0 +1,47 @@
+.btn{
+    width: 100%;
+    background-color:darkslategray;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.col-9{   
+   background-color:rgb(192, 214, 207);
+}
+
+#forecast{
+    padding-left: 40px;
+    padding-right: 30px;
+    gap: 40px;
+    padding-bottom: 40px;
+    
+}
+
+#today{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.day-card{
+    border-radius: 10px;
+    background-color:cadetblue;
+    padding-left: 30px;
+  
+}
+
+.forecast-card{
+    border-radius: 10px;
+    background-color:cadetblue;
+    box-shadow: 2px 2px 6px 0 #000;    
+}
+
+#history{    
+    gap: 15px;
+}
+
+.city{
+    background-color:darkslategray;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+}
